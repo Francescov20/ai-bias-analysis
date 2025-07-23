@@ -1,6 +1,6 @@
 # StereotAIps: Gender Bias Analysis in Language Models
 
->  **University Project – Machine Learning @ UNIBO**  
+>  **University Project – Artificial Intelligence @ UNIBO**  
 > This repository contains the final assignment for the **Machine Learning course** at the **University of Bologna (UNIBO)**.  
 > The project investigates **gender bias in AI language models**, with a focus on the **BERT architecture** and its tendency to reflect societal stereotypes.  
 >  
